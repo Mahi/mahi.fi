@@ -16,7 +16,7 @@ body {
 .content {
   border-left: 1px solid #a6b0b9;
   margin-left: 8px;
-  padding-left: 8px;
+  padding-left: 12px;
 }
 
 address {
@@ -41,6 +41,7 @@ a {
 .piop {
   display: flex;
   flex-direction: column;
+  margin-bottom: 12px;
 }
 
 h3 {
