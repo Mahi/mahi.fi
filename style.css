@@ -33,14 +33,12 @@ a {
   align-items: center;
 }
 
-.contact {
+.section {
   display: flex;
   flex-direction: column;
 }
 
-.piop {
-  display: flex;
-  flex-direction: column;
+.last {
   margin-bottom: 12px;
 }
 
